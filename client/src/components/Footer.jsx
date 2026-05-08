@@ -74,7 +74,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 flex items-center justify-center">
-            Made with <Heart className="mx-2 text-red-500" size={16} /> &copy; 2024 Luxury Jewelry. All rights reserved.
+            Made with <Heart className="mx-2 text-red-500" size={16} /> &copy; 2026 Luxury Jewelry. All rights reserved.
           </p>
         </div>
       </div>

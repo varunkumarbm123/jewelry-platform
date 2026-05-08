@@ -3,7 +3,7 @@ import axios from 'axios';
 import ProductCard from '../components/ProductCard';
 import { motion } from 'framer-motion';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5002';
+const API_URL = import.meta.env.VITE_API_URL || 'https://jewelry-platform.onrender.com';
 
 const Collections = () => {
   const [products, setProducts] = useState([]);
